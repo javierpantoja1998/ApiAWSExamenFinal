@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiAWSExamenFinal", "ApiAWSExamenFinal\ApiAWSExamenFinal.csproj", "{0AC7319E-7863-4C13-8063-73CA8BD43924}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AC7319E-7863-4C13-8063-73CA8BD43924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC7319E-7863-4C13-8063-73CA8BD43924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC7319E-7863-4C13-8063-73CA8BD43924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC7319E-7863-4C13-8063-73CA8BD43924}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F8726B1-3252-431D-A0F4-6A150A75821F}
+	EndGlobalSection
+EndGlobal
